@@ -5,7 +5,8 @@
 <h2><b>Author :</b> kali@buraktheroot </h2>
 <h2> You can check the proxy with this tool. </h2>
 
-![image](https://github.com/user-attachments/assets/037565fb-f311-4dde-a891-9aa4d070845e)
+![logo-removebg-preview](https://github.com/user-attachments/assets/5f2d7adc-7186-4d65-af5a-a9b396e0c45b)
+
 
 #
 
